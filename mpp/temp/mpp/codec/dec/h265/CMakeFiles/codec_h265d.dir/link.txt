@@ -1,0 +1,2 @@
+/opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-ar qc libcodec_h265d.a CMakeFiles/codec_h265d.dir/h265d_parser.c.o CMakeFiles/codec_h265d.dir/h265d_ps.c.o CMakeFiles/codec_h265d.dir/h265d_refs.c.o CMakeFiles/codec_h265d.dir/h265d_sei.c.o CMakeFiles/codec_h265d.dir/h265d_parser2_syntax.c.o
+/opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-ranlib libcodec_h265d.a

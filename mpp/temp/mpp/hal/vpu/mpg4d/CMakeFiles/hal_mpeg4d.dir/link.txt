@@ -1,0 +1,2 @@
+/opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-ar qc libhal_mpeg4d.a CMakeFiles/hal_mpeg4d.dir/hal_m4vd_com.c.o CMakeFiles/hal_mpeg4d.dir/hal_m4vd_api.c.o CMakeFiles/hal_mpeg4d.dir/hal_m4vd_vdpu1.c.o CMakeFiles/hal_mpeg4d.dir/hal_m4vd_vdpu2.c.o
+/opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-ranlib libhal_mpeg4d.a

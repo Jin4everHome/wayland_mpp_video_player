@@ -1,0 +1,2 @@
+/opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-ar qc libcodec_h264e.a CMakeFiles/codec_h264e.dir/h264e_api_v2.c.o CMakeFiles/codec_h264e.dir/h264e_sps.c.o CMakeFiles/codec_h264e.dir/h264e_pps.c.o CMakeFiles/codec_h264e.dir/h264e_sei.c.o CMakeFiles/codec_h264e.dir/h264e_dpb.c.o CMakeFiles/codec_h264e.dir/h264e_slice.c.o
+/opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-ranlib libcodec_h264e.a

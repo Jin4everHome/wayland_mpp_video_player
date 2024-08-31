@@ -1,0 +1,2 @@
+/opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-ar qc libvdpu383_com.a CMakeFiles/vdpu383_com.dir/vdpu383_com.c.o
+/opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-ranlib libvdpu383_com.a

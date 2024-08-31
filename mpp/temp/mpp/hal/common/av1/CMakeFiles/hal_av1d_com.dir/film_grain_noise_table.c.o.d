@@ -1,0 +1,23 @@
+mpp/hal/common/av1/CMakeFiles/hal_av1d_com.dir/film_grain_noise_table.c.o: \
+ /home/jhwang/PROJECT/Netgeer/mine/rockchip_app/mpp/mpp/hal/common/av1/film_grain_noise_table.c \
+ /opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/stdc-predef.h \
+ /home/jhwang/PROJECT/Netgeer/mine/rockchip_app/mpp/mpp/hal/common/av1/film_grain_noise_table.h \
+ /home/jhwang/PROJECT/Netgeer/mine/rockchip_app/mpp/inc/rk_type.h \
+ /opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/lib/gcc/arm-linux-gnueabi/6.3.1/include/stddef.h \
+ /opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/lib/gcc/arm-linux-gnueabi/6.3.1/include/stdint.h \
+ /opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/stdint.h \
+ /opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/features.h \
+ /opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/sys/cdefs.h \
+ /opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/wordsize.h \
+ /opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/gnu/stubs.h \
+ /opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/gnu/stubs-soft.h \
+ /opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/wchar.h \
+ /opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/stdio.h \
+ /opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/types.h \
+ /opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/typesizes.h \
+ /opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/libio.h \
+ /opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/_G_config.h \
+ /opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/wchar.h \
+ /opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/lib/gcc/arm-linux-gnueabi/6.3.1/include/stdarg.h \
+ /opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/stdio_lim.h \
+ /opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/sys_errlist.h

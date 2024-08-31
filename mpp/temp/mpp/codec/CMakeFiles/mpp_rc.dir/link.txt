@@ -1,0 +1,2 @@
+/opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-ar qc libmpp_rc.a CMakeFiles/mpp_rc.dir/mpp_rc.cpp.o
+/opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-ranlib libmpp_rc.a

@@ -1,0 +1,2 @@
+/opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-ar qc libvproc_iep2.a CMakeFiles/vproc_iep2.dir/iep2.c.o CMakeFiles/vproc_iep2.dir/iep2_ff.c.o CMakeFiles/vproc_iep2.dir/iep2_gmv.c.o CMakeFiles/vproc_iep2.dir/iep2_osd.c.o CMakeFiles/vproc_iep2.dir/iep2_pd.c.o CMakeFiles/vproc_iep2.dir/iep2_roi.c.o
+/opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-ranlib libvproc_iep2.a

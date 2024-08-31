@@ -1,0 +1,1 @@
+/opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-g++ -fPIC  -fno-exceptions -fno-rtti -g -shared -Wl,-soname,libvdpp.so -o libvdpp.so CMakeFiles/vdpp.dir/hwpq_vdpp_proc.cpp.o CMakeFiles/vdpp.dir/__/__/mpp_info.cpp.o  ../../../osal/libosal.a ../../base/libmpp_base.a libvproc_vdpp.a ../../../osal/libosal.a -lpthread 

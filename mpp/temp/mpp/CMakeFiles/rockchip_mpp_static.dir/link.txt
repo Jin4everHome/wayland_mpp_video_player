@@ -1,0 +1,2 @@
+/opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-ar qc librockchip_mpp.a CMakeFiles/rockchip_mpp_static.dir/mpp_info.cpp.o CMakeFiles/rockchip_mpp_static.dir/mpp.cpp.o CMakeFiles/rockchip_mpp_static.dir/mpp_impl.cpp.o CMakeFiles/rockchip_mpp_static.dir/mpi.cpp.o
+/opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-ranlib librockchip_mpp.a

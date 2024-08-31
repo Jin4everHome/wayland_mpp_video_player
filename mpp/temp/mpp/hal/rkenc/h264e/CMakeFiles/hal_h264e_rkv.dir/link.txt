@@ -1,0 +1,2 @@
+/opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-ar qc libhal_h264e_rkv.a CMakeFiles/hal_h264e_rkv.dir/hal_h264e_vepu541.c.o CMakeFiles/hal_h264e_rkv.dir/hal_h264e_vepu580.c.o CMakeFiles/hal_h264e_rkv.dir/hal_h264e_vepu540c.c.o CMakeFiles/hal_h264e_rkv.dir/hal_h264e_vepu510.c.o
+/opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-ranlib libhal_h264e_rkv.a

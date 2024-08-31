@@ -1,0 +1,2 @@
+/opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-ar qc libutils.a CMakeFiles/utils.dir/mpp_enc_roi_utils.c.o CMakeFiles/utils.dir/mpi_enc_utils.c.o CMakeFiles/utils.dir/mpi_dec_utils.c.o CMakeFiles/utils.dir/mpp_opt.c.o CMakeFiles/utils.dir/utils.c.o CMakeFiles/utils.dir/iniparser.c.o CMakeFiles/utils.dir/dictionary.c.o CMakeFiles/utils.dir/camera_source.c.o
+/opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-ranlib libutils.a

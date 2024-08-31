@@ -1,0 +1,2 @@
+/opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-ar qc libhal_vepu541_common.a CMakeFiles/hal_vepu541_common.dir/vepu541_common.c.o CMakeFiles/hal_vepu541_common.dir/vepu5xx_common.c.o CMakeFiles/hal_vepu541_common.dir/vepu540c_common.c.o CMakeFiles/hal_vepu541_common.dir/vepu580_tune.c.o CMakeFiles/hal_vepu541_common.dir/vepu510_common.c.o
+/opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-ranlib libhal_vepu541_common.a

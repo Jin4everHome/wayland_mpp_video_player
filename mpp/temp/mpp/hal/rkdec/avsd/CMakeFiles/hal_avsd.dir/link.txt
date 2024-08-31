@@ -1,0 +1,2 @@
+/opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-ar qc libhal_avsd.a CMakeFiles/hal_avsd.dir/hal_avsd_api.c.o CMakeFiles/hal_avsd.dir/hal_avsd_base.c.o CMakeFiles/hal_avsd.dir/hal_avsd_vdpu1.c.o CMakeFiles/hal_avsd.dir/hal_avsd_vdpu2.c.o CMakeFiles/hal_avsd.dir/hal_avsd_plus.c.o
+/opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-ranlib libhal_avsd.a

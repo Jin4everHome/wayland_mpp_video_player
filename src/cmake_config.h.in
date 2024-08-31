@@ -1,0 +1,29 @@
+/*_############################################################################
+ *
+ *
+ *_############################################################################*/
+
+/* Define to 1 if you have the `getaddrinfo' function. */
+#cmakedefine HAVE_GETADDRINFO
+
+/* Define to 1 if you have the `gethostbyaddr' function. */
+#cmakedefine HAVE_GETHOSTBYADDR
+
+/* Define to 1 if you have the <winsock2.h> header file. */
+#cmakedefine HAVE_WINSOCK2_H
+
+/* Define if ISO C++ 1998 header files are present. */
+#cmakedefine STDCXX_98_HEADERS
+
+/* Define to 1 if you have the <sys/socket.h> header file. */
+#cmakedefine HAVE_SYS_SOCKET_H
+
+/* Define if you have POSIX threads libraries and header files. */
+#cmakedefine HAVE_PTHREAD @HAVE_PTHREAD@
+
+
+
+
+
+
+

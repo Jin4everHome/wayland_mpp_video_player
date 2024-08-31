@@ -1,0 +1,2 @@
+/opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-ar qc libhal_avs2d.a CMakeFiles/hal_avs2d.dir/hal_avs2d_rkv.c.o CMakeFiles/hal_avs2d.dir/hal_avs2d_vdpu382.c.o CMakeFiles/hal_avs2d.dir/hal_avs2d_vdpu383.c.o CMakeFiles/hal_avs2d.dir/hal_avs2d_api.c.o
+/opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-ranlib libhal_avs2d.a

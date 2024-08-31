@@ -1,0 +1,2 @@
+/opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-ar qc libhal_jpegd.a CMakeFiles/hal_jpegd.dir/hal_jpegd_api.c.o CMakeFiles/hal_jpegd.dir/hal_jpegd_common.c.o CMakeFiles/hal_jpegd.dir/hal_jpegd_vdpu2.c.o CMakeFiles/hal_jpegd.dir/hal_jpegd_vdpu1.c.o CMakeFiles/hal_jpegd.dir/hal_jpegd_rkv.c.o
+/opt/amlogic/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-ranlib libhal_jpegd.a
