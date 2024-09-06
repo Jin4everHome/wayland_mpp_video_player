@@ -16,13 +16,10 @@ You can get form
 
 ## [Build]
 Build sysfs
-'''
 $git clone https://github.com/Jin4everHome/buildroot.git
 $cd buildroot
 $make rockchip_defconfig
 $make
-'''
-
 Build wayland_mpp_video_player
 $cd ../
 $git clone https://github.com/Jin4everHome/wayland_mpp_video_player.git
@@ -32,17 +29,17 @@ $cd build
 $cmake ../
 $make
 ## [RUN]
-  You need to install output executable file(rkplayer) to your target board.
-  The rootfs of your target board must have the dependancies when you are build rkplayer
-  ```bash
-  1. Install binary rkplayer
-  2. run player on your target board
-     [local]
-         rkplay file://<path_to_your_local_media_file>
-     [URL]
-         rkplay https://<path_to_file>
-         rkplay http://<path_to_file>
-         rkplay udp://<path_to_file>
+You need to install output executable file(rkplayer) to your target board.
+The rootfs of your target board must have the dependancies when you are build rkplayer
+```bash
+1. Install binary rkplayer
+2. run player on your target board
+  [local]
+     rkplay file://<path_to_your_local_media_file>
+  [URL]
+     rkplay https://<path_to_file>
+     rkplay http://<path_to_file>
+     rkplay udp://<path_to_file>
          
   
 
