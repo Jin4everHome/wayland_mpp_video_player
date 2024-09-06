@@ -31,6 +31,11 @@ $make
 ## RUN
 You need to install output executable file(rkplayer) to your target board.
 The rootfs of your target board must have the dependancies when you are build rkplayer
+
+```bash
+# This is an example of a code block
+echo "Hello, World!"
+
 ```bash
 1. Install binary rkplayer
 2. run player on your target board
