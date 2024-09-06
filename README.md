@@ -16,18 +16,19 @@ You can get form
 
 ## Build
 Build sysfs
-$git clone https://github.com/Jin4everHome/buildroot.git
-$cd buildroot
-$make rockchip_defconfig
-$make
-Build wayland_mpp_video_player
-$cd ../
-$git clone https://github.com/Jin4everHome/wayland_mpp_video_player.git
-$cd wayland_mpp_video_player
-$mkdir build
-$cd build
-$cmake ../
-$make
+$git clone https://github.com/Jin4everHome/buildroot.git  
+$cd buildroot  
+$make rockchip_defconfig  
+$make  
+Build wayland_mpp_video_player  
+$cd ../  
+$git clone https://github.com/Jin4everHome/wayland_mpp_video_player.git  
+$cd wayland_mpp_video_player  
+$mkdir build  
+$cd build  
+$cmake ../  
+$make  
+
 ## RUN
 You need to install output executable file(rkplayer) to your target board.
 The rootfs of your target board must have the dependancies when you are build rkplayer
