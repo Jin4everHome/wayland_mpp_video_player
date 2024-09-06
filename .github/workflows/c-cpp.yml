@@ -8,16 +8,16 @@ on:
 
 jobs:
   build:
-
+    
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
-    - name: configure
-      run: ./configure
-    - name: make
-      run: make
-    - name: make check
-      run: make check
-    - name: make distcheck
-      run: make distcheck
+    - name : Clone external repository
+      run : git clone https://github.com/Jin4everHome/buildroot.git ../buildroot
+    - name: Build buildroot
+      run : cd ../buildroot && make rockchip_defconfig && make
+    - name: create build directory
+      run: mkdir -p build && cd build && cmake ..
+    - name: build
+      run: cd build && make
+
