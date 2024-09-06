@@ -38,11 +38,13 @@ The rootfs of your target board must have the dependancies when you are build rk
   [local]  
      rkplay file://<path_to_your_local_media_file>  
   [URL]
-   '''
+```bash
      rkplay https://<path_to_file>  
      rkplay http://<path_to_file>  
      rkplay udp://<path_to_file>    
 
+
+   
     
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
