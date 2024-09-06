@@ -16,12 +16,13 @@ You can get form
 
 ## [Build]
 Build sysfs
-```bash
+'''
 $git clone https://github.com/Jin4everHome/buildroot.git
 $cd buildroot
 $make rockchip_defconfig
 $make
-  
+'''
+
 Build wayland_mpp_video_player
 $cd ../
 $git clone https://github.com/Jin4everHome/wayland_mpp_video_player.git
